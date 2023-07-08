@@ -1,0 +1,5 @@
+setup.py
+python_remote_module.egg-info/PKG-INFO
+python_remote_module.egg-info/SOURCES.txt
+python_remote_module.egg-info/dependency_links.txt
+python_remote_module.egg-info/top_level.txt
